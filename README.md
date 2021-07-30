@@ -1,6 +1,6 @@
 # Programming From The Ground Up
 
-This repo contains exercises and summaries from the Book "Programming from the ground up" by Josh Bartlett
+This repo contains exercises and summaries from the Book "Programming from the ground up" by Jonathan Bartlett
 # Chapter 3, Your First Programs
 
 1. Exit program [exit.s](https://github.com/Mirhatyasar/Programming-from-the-ground-up/blob/main/exit.s)

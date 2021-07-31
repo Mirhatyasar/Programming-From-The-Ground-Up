@@ -1,5 +1,5 @@
 .section .data
- .data_items: 55,66,88,99,31,30,57,89,33,211,28,20,0
+ data_items: 55,66,88,99,31,30,57,89,33,211,28,20,0 # random numbers
  
  .section .text
  .globl _start

@@ -1,3 +1,5 @@
+# Purpose: This program finds the maximum number of a set of data items.
+
 .section .data
  data_items: .long 55,66,88,99,31,30,57,89,33,211,28,20,0 # random numbers
  

@@ -19,6 +19,7 @@ start_loop:
  cmpl %ebx, %eax
  jle start_loop
  movl %eax, %ebx
+ jmp start_loop
  
 exit_loop:
  movl $1, %eax

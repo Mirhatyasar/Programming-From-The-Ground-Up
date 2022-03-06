@@ -1,4 +1,4 @@
-.seciton .data
+.section .data
 
 .section .text
 .globl _start
